@@ -8,7 +8,7 @@ Senior Full Stack Software Engineer
 ---
 
 ## Professional Summary
-Senior Full Stack Engineer with 9+ years of experience designing and building **scalable, secure, production-grade web applications**. Strong expertise in **Laravel, Vue.js, API design, real-time systems, and DevOps automation**. Proven track record delivering enterprise platforms across **education, fintech, GIS, AI-driven research, and government sectors**.
+Senior Full Stack Engineer with 9+ years of experience designing and building **scalable, secure, production-grade web applications**. Strong expertise in **Laravel, Vue.js, API design, real-time systems, and DevOps automation**. Proven track record delivering enterprise platforms across **education, eCommerce, caller ID, medicine, fintech, GIS, AI-driven research, ERP, government sectors, and more....**.
 
 ---
 
@@ -66,6 +66,10 @@ PHPUnit, Pest, SOLID Principles, Design Patterns, UML
 - **Return** – Rewards & progress tracking app  
   https://return.com.co
 
+> 🔎 **Note:** For more companies, production projects, and detailed professional experience,  
+> please visit my LinkedIn profile:  
+> https://linkedin.com/in/mahmoudhaggag641
+
 ---
 
 ## GitHub Metrics
@@ -74,7 +78,11 @@ PHPUnit, Pest, SOLID Principles, Design Patterns, UML
 
 ---
 
-## Contact
-- LinkedIn: https://linkedin.com/in/mahmoudhaggag641
-- Email: mahmoudhaggag641@gmail.com
+## 📫 Contact
+
+- 📱 WhatsApp: https://wa.me/201121300234
+- 💼 LinkedIn: https://linkedin.com/in/mahmoudhaggag641
+- 📧 Email: mailto:mahmoudhaggag641@gmail.com
+
+⭐ *Clean code. Scalable systems. Real business impact.*
 
